@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">meFit</string>
+    <string name="instr">Press \"Start\" to begin tracking, press \"Stop\" to end run.</string>
+    <string name="btnStart">Start</string>
+    <string name="btnEnd">End</string>
+    <string name="statusIdle">Monitor idle.</string>
+    <string name="statusRunning">Monitor tracking...</string>
+    <string name="statusEnd">Run ended.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="prev_run">Last run:</string>
+    <string name="prevDate">Run date:</string>
+    <string name="start_time">Start time:</string>
+    <string name="end_time"> End time:</string>
+    <string name="total_time">Total time:</string>
+    <string name="max_speed">Max speed:</string>
+    <string name="avg_speed">Average speed:</string>
+    <string name="distance">Total Distance:</string>
+    <string name="title_activity_map">Map</string>
+    <string name="date_today">Date</string>
+    <string name="running">Running...</string>
+    <string name="startPH">00:00:00</string>
+    <string name="datePH">MM/DD/YYYY</string>
+    <string name="endPH">00:00:00</string>
+    <string name="totPH">00:00:00</string>
+    <string name="maxPH">0.00 Mph</string>
+    <string name="avgPH">0.00 Mph</string>
+    <string name="distPH">0.00 miles</string>
+    <string name="btnView">View Runs</string>
+    <string name="prevRuns">Previous Runs</string>
+    <string name="runDate">Run date: </string>
+</resources>
