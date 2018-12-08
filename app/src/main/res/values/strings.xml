@@ -2,7 +2,7 @@
     <string name="app_name">meFit</string>
     <string name="instr">Press \"Start\" to begin tracking, press \"Stop\" to end run.</string>
     <string name="btnStart">Start</string>
-    <string name="btnEnd">End</string>
+    <string name="btnEnd">Stop</string>
     <string name="statusIdle">Monitor idle.</string>
     <string name="statusRunning">Monitor tracking...</string>
     <string name="statusEnd">Run ended.</string>
